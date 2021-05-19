@@ -1,0 +1,20 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "net.tigereye.chestcavity.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinLivingEntity$Cow",
+    "MixinLivingEntity$Creeper",
+    "MixinLivingEntity$Mob",
+    "MixinLivingEntity$Player",
+    "MixinLivingEntity$Server",
+    "MixinLivingEntity$Sheep",
+    "MixinLivingEntity$Wither",
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

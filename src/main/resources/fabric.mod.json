@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "facecavity",
+  "id": "chestcavity",
   "version": "${version}",
 
-  "name": "Face Cavity",
+  "name": "Chest Cavity",
   "description": "Perfectly Safe Extra Storage",
   "authors": [
     "David Troyer"
@@ -19,20 +19,20 @@
   "environment": "*",
   "entrypoints": {
     "client": [
-      "io.github.frogastudios.facecavity.FaceCavityClient"
+      "net.tigereye.chestcavity.ChestCavityClient"
     ],
     "server": [
-      "io.github.frogastudios.facecavity.FaceCavityServer"
+      "net.tigereye.chestcavity.ChestCavityServer"
     ],
     "main": [
-      "io.github.frogastudios.facecavity.FaceCavity"
+      "net.tigereye.chestcavity.ChestCavity"
     ],
     "modmenu": [
-      "io.github.frogastudios.facecavity.config.CCModMenuIntegration"
+      "net.tigereye.chestcavity.config.CCModMenuIntegration"
     ]
   },
   "mixins": [
-    "facecavity.mixins.json"
+    "chestcavity.mixins.json"
   ],
 
   "depends": {

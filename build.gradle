@@ -15,9 +15,7 @@ dependencies {
 	minecraft "com.mojang:minecraft:${project.minecraft_version}"
 	mappings "net.fabricmc:yarn:${project.yarn_mappings}:v2"
 	modImplementation "net.fabricmc:fabric-loader:${project.loader_version}"
-	modImplementation "com.github.Tigereye504:chestcavity:2.10.1"
 
-	// Fabric API. This is technically optional, but you probably want it anyway.
 	// Fabric API. This is technically optional, but you probably want it anyway.
 	modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
 
@@ -37,7 +35,7 @@ dependencies {
 	 //modApi "com.github.moriyashiine:anthropophagy-1.16.5-1"
 	// modImplementation "com.github.LudoCrypt:the-backrooms:1.3.0"
 	//implementation "me.zeroeightsix:fiber:${project.fiber_version}"
-	modImplementation "io.github.ladysnake:requiem-api:${requiem_version}"
+//	modImplementation "io.github.ladysnake:requiem-api:${requiem_version}"
 	//modRuntime "io.github.ladysnake:requiem:${requiem_version}"
 	//modApi "io.github.ladysnake:requiem:${requiem_version}"
 	//compileOnly "io.github.ladysnake:requiem:${requiem_version}"
@@ -61,12 +59,7 @@ repositories {
 	maven {
 		url = "https://maven.modmuss50.me/"
 	}
-	maven {
-		url = "https://maven.frogastudios.com/"
-	}
-	maven {
-		url = 'https://jitpack.io'
-	}
+	maven { url = 'https://jitpack.io' }
 }
 
 processResources {
@@ -118,7 +111,7 @@ publishing {
 	// select the repositories you want to publish to
 	repositories {
 		// uncomment to publish to the local maven
-		//mavenLocal()
+		mavenLocal()
 		
 	}
 }

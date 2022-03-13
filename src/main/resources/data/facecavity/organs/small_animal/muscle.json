@@ -1,0 +1,7 @@
+{
+  "itemID": "facecavity:small_animal_muscle",
+  "organScores": [
+    {"id":"facecavity:strength","value": ".5"},
+    {"id":"facecavity:speed","value": ".5"}
+  ]
+}

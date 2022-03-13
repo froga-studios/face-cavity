@@ -1,0 +1,8 @@
+{
+  "facecavity": "facecavity:types/animals/carnivore.json",
+  "entities": [
+    "minecraft:panda",
+    "minecraft:polar_bear",
+    "minecraft:wolf"
+  ]
+}

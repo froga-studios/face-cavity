@@ -1,0 +1,7 @@
+{
+  "itemID": "facecavity:fireproof_rib",
+  "organScores": [
+    {"id":"facecavity:defense","value": ".75"},
+    {"id":"facecavity:fire_resistant","value": "1"}
+  ]
+}

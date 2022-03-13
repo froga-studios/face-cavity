@@ -1,0 +1,10 @@
+{
+  "itemID": "minecraft:emerald_block",
+  "pseudoOrgan": true,
+  "organScores": [
+    {"id":"facecavity:luck","value": "1"},
+    {"id":"facecavity:buoyant","value": "-1"},
+    {"id":"facecavity:speed","value": "-1"},
+    {"id":"facecavity:fire_resistant","value": "1"}
+  ]
+}

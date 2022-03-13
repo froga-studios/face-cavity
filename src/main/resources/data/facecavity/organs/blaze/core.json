@@ -1,0 +1,9 @@
+{
+  "itemID": "facecavity:blaze_core",
+  "organScores": [
+    {"id":"facecavity:health","value": "1"},
+    {"id":"facecavity:nerves","value": ".5"},
+    {"id":"facecavity:fire_resistant","value": "1"},
+    {"id":"facecavity:hydroallergenic","value": "3"}
+  ]
+}

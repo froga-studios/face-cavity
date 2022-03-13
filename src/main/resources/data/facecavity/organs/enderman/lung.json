@@ -1,0 +1,9 @@
+{
+  "itemID": "facecavity:ender_lung",
+  "organScores": [
+    {"id":"facecavity:breath_recovery","value": "1.25"},
+    {"id":"facecavity:breath_capacity","value": "1.25"},
+    {"id":"facecavity:endurance","value": "1.25"},
+    {"id":"facecavity:hydroallergenic","value": "1"}
+  ]
+}

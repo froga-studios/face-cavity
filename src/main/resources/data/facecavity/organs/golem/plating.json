@@ -1,0 +1,8 @@
+{
+  "itemID": "facecavity:golem_plating",
+  "organScores": [
+    {"id":"facecavity:defense","value": "1.25"},
+    {"id":"facecavity:iron_repair","value": "1"},
+    {"id":"facecavity:metabolism","value": "-.5"}
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      {
+        "item": "facecavity:raw_dragon_meat"
+      },
+      {
+        "item": "facecavity:raw_dragon_meat"
+      },
+      {
+        "item": "facecavity:raw_dragon_meat"
+      },
+      {
+        "item": "facecavity:raw_dragon_meat"
+      },
+      {
+        "item": "facecavity:raw_dragon_meat"
+      },
+      {
+        "item": "facecavity:raw_dragon_meat"
+      },
+      {
+        "item": "facecavity:raw_dragon_meat"
+      },
+      {
+        "item": "facecavity:raw_dragon_meat"
+      },
+      {
+        "item": "facecavity:sausage_skin"
+      }
+  ],
+  "result": {
+    "item": "facecavity:raw_dragon_sausage",
+    "count": 1
+  }
+}

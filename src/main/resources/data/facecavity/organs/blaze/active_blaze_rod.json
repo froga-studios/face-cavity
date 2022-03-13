@@ -1,0 +1,8 @@
+{
+  "itemID": "facecavity:active_blaze_rod",
+  "organScores": [
+    {"id":"facecavity:pyromancy","value": "3"},
+    {"id":"facecavity:fire_resistant","value": "1"},
+    {"id":"facecavity:hydroallergenic","value": "3"}
+  ]
+}

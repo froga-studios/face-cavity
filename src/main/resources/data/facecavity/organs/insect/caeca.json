@@ -1,0 +1,8 @@
+{
+  "itemID": "facecavity:insect_caeca",
+  "organScores": [
+    {"id":"facecavity:nutrition","value": ".5"},
+    {"id":"facecavity:digestion","value": ".25"},
+    {"id":"facecavity:nerves","value": ".5"}
+  ]
+}

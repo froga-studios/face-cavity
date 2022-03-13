@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "#facecavity:salvageable_alien_meat",
+    "#facecavity:salvageable_butchered_meat",
+    "#facecavity:salvageable_dragon_meat",
+    "#facecavity:salvageable_man_meat",
+    "#facecavity:salvageable_small_butchered_meat",
+    "#facecavity:salvageable_toxic_meat"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+      "item": "facecavity:diamond_cleaver"
+    },
+    "addition": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "result": {
+      "item": "facecavity:netherite_cleaver"
+    }
+  }

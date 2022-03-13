@@ -1,0 +1,7 @@
+{
+  "itemID": "facecavity:ender_intestine",
+  "organScores": [
+    {"id":"facecavity:nutrition","value": "1.25"},
+    {"id":"facecavity:hydroallergenic","value": "1"}
+  ]
+}

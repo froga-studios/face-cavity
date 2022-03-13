@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+      "facecavity:small_aquatic_muscle",
+      "facecavity:small_animal_muscle",
+      "facecavity:small_fish_muscle",
+      "facecavity:small_springy_muscle"
+    ]
+}

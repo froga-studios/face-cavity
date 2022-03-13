@@ -1,0 +1,6 @@
+{
+  "facecavity": "facecavity:types/humanoids/player.json",
+  "entities": [
+    "minecraft:player"
+  ]
+}

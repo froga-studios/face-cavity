@@ -1,0 +1,6 @@
+{
+  "itemID": "facecavity:animal_spleen",
+  "organScores": [
+    {"id":"facecavity:metabolism","value": ".75"}
+  ]
+}

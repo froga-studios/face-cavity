@@ -1,0 +1,7 @@
+{
+  "itemID": "facecavity:rotten_stomach",
+  "organScores": [
+    {"id":"facecavity:digestion","value": ".5"},
+    {"id":"facecavity:rot_digestion","value": "1"}
+  ]
+}

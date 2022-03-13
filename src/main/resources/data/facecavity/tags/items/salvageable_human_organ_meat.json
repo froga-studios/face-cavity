@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+      "facecavity:appendix",
+      "facecavity:heart",
+      "facecavity:intestine",
+      "facecavity:kidney",
+      "facecavity:liver",
+      "facecavity:lung",
+      "facecavity:stomach",
+      "facecavity:spleen"
+    ]
+}

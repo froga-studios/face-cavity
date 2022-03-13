@@ -1,0 +1,9 @@
+{
+  "type": "facecavity:crafting_salvage",
+  "ingredient": {
+    "tag": "facecavity:salvageable_small_butchered_meat"
+  },
+  "required": 8,
+  "result": "facecavity:raw_butchered_meat",
+  "count": 1
+}

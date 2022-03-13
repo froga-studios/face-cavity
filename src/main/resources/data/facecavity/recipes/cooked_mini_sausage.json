@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+      "item": "facecavity:raw_mini_sausage"
+    },
+    "result": "facecavity:mini_sausage",
+    "experience": 0.35,
+    "cookingtime": 200
+  }

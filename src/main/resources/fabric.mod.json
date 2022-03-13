@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "facecavity",
+  "version": "${version}",
+
+  "name": "Chest Cavity",
+  "description": "Perfectly Safe Extra Storage",
+  "authors": [
+    "David Troyer"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/facecavity/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "net.tigereye.facecavity.FaceCavityClient"
+    ],
+    "server": [
+      "net.tigereye.facecavity.FaceCavityServer"
+    ],
+    "main": [
+      "net.tigereye.facecavity.FaceCavity"
+    ],
+    "modmenu": [
+      "net.tigereye.facecavity.config.CCModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "facecavity.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.18.x"
+  },
+  "suggests": {
+  }
+}

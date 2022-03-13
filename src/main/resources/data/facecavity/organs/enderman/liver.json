@@ -1,0 +1,7 @@
+{
+  "itemID": "facecavity:ender_liver",
+  "organScores": [
+    {"id":"facecavity:detoxification","value": "1"},
+    {"id":"facecavity:hydroallergenic","value": "1"}
+  ]
+}

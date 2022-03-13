@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+      "facecavity:active_blaze_rod",
+      "facecavity:blaze_shell",
+      "facecavity:blaze_core"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+      "facecavity:golem_core",
+      "facecavity:golem_cable",
+      "facecavity:golem_plating",
+      "facecavity:inner_furnace"
+    ]
+}

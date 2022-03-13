@@ -1,0 +1,7 @@
+{
+  "facecavity": "facecavity:types/animals/small_aquatic_carnivore.json",
+  "entities": [
+    "creatures_of_the_snow:snow_seal",
+    "creatures_of_the_snow:penguin"
+  ]
+}

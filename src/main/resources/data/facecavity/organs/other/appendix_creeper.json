@@ -1,0 +1,8 @@
+{
+  "itemID": "facecavity:creeper_appendix",
+  "organScores": [
+    {"id":"facecavity:luck","value": ".75"},
+    {"id":"facecavity:creepy","value": "1"},
+    {"id":"facecavity:explosive","value": "1"}
+  ]
+}

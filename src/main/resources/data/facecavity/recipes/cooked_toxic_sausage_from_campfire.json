@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:campfire_cooking",
+    "ingredient": {
+      "item": "facecavity:raw_toxic_sausage"
+    },
+    "result": "facecavity:toxic_sausage",
+    "experience": 0.35,
+    "cookingtime": 600
+  }

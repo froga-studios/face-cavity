@@ -1,0 +1,8 @@
+{
+  "itemID": "minecraft:blaze_rod",
+  "pseudoOrgan": true,
+  "organScores": [
+    {"id":"facecavity:pyromancy","value": "1"},
+    {"id":"facecavity:hydroallergenic","value": "1"}
+  ]
+}

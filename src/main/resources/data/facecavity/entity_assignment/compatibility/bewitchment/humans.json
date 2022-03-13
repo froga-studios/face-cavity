@@ -1,0 +1,7 @@
+{
+  "facecavity": "facecavity:types/humanoids/human.json",
+  "entities": [
+    "bewitchment:vampire",
+    "bewitchment:demon"
+  ]
+}

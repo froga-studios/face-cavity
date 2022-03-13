@@ -1,0 +1,7 @@
+{
+  "itemID": "facecavity:muscle",
+  "organScores": [
+    {"id":"facecavity:strength","value": "1"},
+    {"id":"facecavity:speed","value": "1"}
+  ]
+}

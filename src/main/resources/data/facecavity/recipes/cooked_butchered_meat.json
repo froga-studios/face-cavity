@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+      "item": "facecavity:raw_butchered_meat"
+    },
+    "result": "facecavity:cooked_butchered_meat",
+    "experience": 0.35,
+    "cookingtime": 200
+  }

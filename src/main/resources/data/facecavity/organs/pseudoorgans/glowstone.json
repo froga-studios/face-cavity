@@ -1,0 +1,7 @@
+{
+  "itemID": "minecraft:glowstone",
+  "pseudoOrgan": true,
+  "organScores": [
+    {"id":"facecavity:glowing","value": "128"}
+  ]
+}

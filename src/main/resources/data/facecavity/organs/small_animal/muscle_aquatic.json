@@ -1,0 +1,8 @@
+{
+  "itemID": "facecavity:small_aquatic_muscle",
+  "organScores": [
+    {"id":"facecavity:strength","value": ".5"},
+    {"id":"facecavity:speed","value": ".25"},
+    {"id":"facecavity:swim_speed","value": ".5"}
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "facecavity": "facecavity:types/animal/omnivore.json",
+  "entities": [
+    "direbats:direbat"
+  ]
+}

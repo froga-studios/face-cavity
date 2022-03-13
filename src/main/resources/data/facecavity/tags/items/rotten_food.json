@@ -1,0 +1,14 @@
+{
+    "replace": false,
+    "values": [
+      "minecraft:rotten_flesh",
+      "facecavity:rotten_appendix",
+      "facecavity:rotten_heart",
+      "facecavity:rotten_intestine",
+      "facecavity:rotten_kidney",
+      "facecavity:rotten_liver",
+      "facecavity:rotten_lung",
+      "facecavity:rotten_stomach",
+      "facecavity:rotten_spleen"
+    ]
+}

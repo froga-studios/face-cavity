@@ -1,0 +1,8 @@
+{
+  "type": "facecavity:crafting_salvage",
+  "ingredient": {
+    "item": "facecavity:creeper_appendix"
+  },
+  "result": "minecraft:gunpowder",
+  "count": 1
+}

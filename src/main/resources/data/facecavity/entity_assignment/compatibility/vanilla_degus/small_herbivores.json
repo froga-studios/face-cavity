@@ -1,0 +1,6 @@
+{
+  "facecavity": "facecavity:types/animals/small_herbivore.json",
+  "entities": [
+    "vanilla_degus:degu"
+  ]
+}

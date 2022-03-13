@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      {
+        "item": "facecavity:raw_human_organ_meat"
+      },
+      {
+        "item": "facecavity:raw_human_organ_meat"
+      },
+      {
+        "item": "facecavity:raw_human_organ_meat"
+      },
+      {
+        "item": "facecavity:raw_human_organ_meat"
+      },
+      {
+        "item": "facecavity:raw_human_organ_meat"
+      },
+      {
+        "item": "facecavity:raw_human_organ_meat"
+      },
+      {
+        "item": "facecavity:raw_human_organ_meat"
+      },
+      {
+        "item": "facecavity:raw_human_organ_meat"
+      },
+      {
+        "item": "facecavity:sausage_skin"
+      }
+  ],
+  "result": {
+    "item": "facecavity:raw_rich_human_sausage",
+    "count": 1
+  }
+}

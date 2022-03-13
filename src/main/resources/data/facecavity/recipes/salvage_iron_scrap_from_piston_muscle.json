@@ -1,0 +1,9 @@
+{
+  "type": "facecavity:crafting_salvage",
+  "ingredient": {
+    "item": "facecavity:piston_muscle"
+  },
+  "required": 4,
+  "result": "facecavity:iron_scrap",
+  "count": 1
+}

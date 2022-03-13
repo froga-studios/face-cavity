@@ -1,0 +1,7 @@
+{
+  "itemID": "facecavity:withered_rib",
+  "organScores": [
+    {"id":"facecavity:defense","value": ".5"},
+    {"id":"facecavity:withered","value": ".5"}
+  ]
+}

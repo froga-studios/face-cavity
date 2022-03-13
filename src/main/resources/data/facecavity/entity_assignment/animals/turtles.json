@@ -1,0 +1,6 @@
+{
+  "facecavity": "facecavity:types/animals/turtle.json",
+  "entities": [
+    "minecraft:turtle"
+  ]
+}

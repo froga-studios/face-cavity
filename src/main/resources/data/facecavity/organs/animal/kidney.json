@@ -1,0 +1,6 @@
+{
+  "itemID": "facecavity:animal_kidney",
+  "organScores": [
+    {"id":"facecavity:filtration","value": ".75"}
+  ]
+}

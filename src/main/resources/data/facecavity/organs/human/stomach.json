@@ -1,0 +1,6 @@
+{
+  "itemID": "facecavity:stomach",
+  "organScores": [
+    {"id":"facecavity:digestion","value": "1"}
+  ]
+}

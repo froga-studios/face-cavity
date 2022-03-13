@@ -1,0 +1,7 @@
+{
+  "itemID": "facecavity:ender_spleen",
+  "organScores": [
+    {"id":"facecavity:metabolism","value": "1.25"},
+    {"id":"facecavity:hydroallergenic","value": "1"}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+      "facecavity:insect_heart",
+      "facecavity:insect_intestine",
+      "facecavity:insect_lung",
+      "facecavity:insect_stomach",
+      "facecavity:insect_caeca",
+      "facecavity:silk_gland",
+      "facecavity:venom_gland"
+    ]
+}

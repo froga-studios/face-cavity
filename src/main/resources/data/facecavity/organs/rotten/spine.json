@@ -1,0 +1,7 @@
+{
+  "itemID": "facecavity:rotten_spine",
+  "organScores": [
+    {"id":"facecavity:defense","value": ".375"},
+    {"id":"facecavity:nerves","value": ".5"}
+  ]
+}

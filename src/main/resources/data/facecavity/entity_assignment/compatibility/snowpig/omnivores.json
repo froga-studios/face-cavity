@@ -1,0 +1,6 @@
+{
+  "facecavity": "facecavity:types/animals/omnivore.json",
+  "entities": [
+    "snowpig:snow_pig"
+  ]
+}

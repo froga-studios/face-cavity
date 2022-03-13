@@ -1,0 +1,21 @@
+{
+    "replace": false,
+    "values": [
+      "facecavity:rib",
+      "facecavity:animal_rib",
+      "facecavity:fireproof_rib",
+      "facecavity:small_animal_rib",
+      "facecavity:rotten_rib",
+      "facecavity:withered_rib",
+      "facecavity:ender_rib",
+      "facecavity:dragon_rib",
+      "facecavity:spine",
+      "facecavity:animal_spine",
+      "facecavity:fireproof_spine",
+      "facecavity:small_animal_spine",
+      "facecavity:rotten_spine",
+      "facecavity:withered_spine",
+      "facecavity:ender_spine",
+      "facecavity:dragon_spine"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+  "itemID": "facecavity:ender_spine",
+  "organScores": [
+    {"id":"facecavity:defense","value": ".9375"},
+    {"id":"facecavity:nerves","value": "1.25"},
+    {"id":"facecavity:hydroallergenic","value": "1"}
+  ]
+}

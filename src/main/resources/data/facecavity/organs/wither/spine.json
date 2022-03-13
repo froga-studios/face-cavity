@@ -1,0 +1,8 @@
+{
+  "itemID": "facecavity:withered_spine",
+  "organScores": [
+    {"id":"facecavity:defense","value": ".375"},
+    {"id":"facecavity:nerves","value": ".5"},
+    {"id":"facecavity:withered","value": ".5"}
+  ]
+}

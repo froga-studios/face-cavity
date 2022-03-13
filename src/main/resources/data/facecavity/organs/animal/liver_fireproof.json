@@ -1,0 +1,7 @@
+{
+  "itemID": "facecavity:fireproof_liver",
+  "organScores": [
+    {"id":"facecavity:detoxification","value": ".75"},
+    {"id":"facecavity:fire_resistant","value": "1"}
+  ]
+}

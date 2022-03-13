@@ -1,0 +1,7 @@
+{
+  "itemID": "facecavity:fireproof_stomach",
+  "organScores": [
+    {"id":"facecavity:digestion","value": ".75"},
+    {"id":"facecavity:fire_resistant","value": "1"}
+  ]
+}

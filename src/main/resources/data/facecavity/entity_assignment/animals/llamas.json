@@ -1,0 +1,7 @@
+{
+  "facecavity": "facecavity:types/animals/llama.json",
+  "entities": [
+    "minecraft:llama",
+    "minecraft:trader_llama"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "itemID": "facecavity:fireproof_spine",
+  "organScores": [
+    {"id":"facecavity:defense","value": ".5625"},
+    {"id":"facecavity:nerves","value": ".75"},
+    {"id":"facecavity:fire_resistant","value": "1"}
+  ]
+}

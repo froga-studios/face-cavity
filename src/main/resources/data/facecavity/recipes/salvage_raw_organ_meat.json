@@ -1,0 +1,8 @@
+{
+  "type": "facecavity:crafting_salvage",
+  "ingredient": {
+    "tag": "facecavity:salvageable_animal_organ_meat"
+  },
+  "result": "facecavity:raw_organ_meat",
+  "count": 1
+}

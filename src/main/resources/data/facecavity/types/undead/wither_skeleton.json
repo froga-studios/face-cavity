@@ -1,0 +1,27 @@
+{
+  "defaultFaceCavity": [
+    
+    {"item": "facecavity:withered_rib","position": 1},
+    {"item": "facecavity:withered_rib","position": 7},
+
+    {"item": "facecavity:withered_rib","position": 10},
+    {"item": "facecavity:withered_spine","position": 13},
+    {"item": "facecavity:withered_rib","position": 16}
+  ],
+  "baseOrganScores": [
+    {"id": "facecavity:luck","value": "1"},
+    {"id": "facecavity:defense","value": "2.375"},
+    {"id": "facecavity:health","value": "1"},
+    {"id": "facecavity:nutrition","value": "4"},
+    {"id": "facecavity:filtration","value": "2"},
+    {"id": "facecavity:detoxification","value": "1"},
+    {"id": "facecavity:strength","value": "8"},
+    {"id": "facecavity:speed","value": "8"},
+    {"id": "facecavity:nerves","value": ".5"},
+    {"id": "facecavity:metabolism","value": "1"},
+    {"id": "facecavity:digestion","value": "1"},
+    {"id": "facecavity:breath","value": "2"},
+    {"id": "facecavity:endurance","value": "2"}
+  ],
+  "forbiddenSlots": [0,2,3,4,5,6,8,9,11,12,14,15,17,18,19,20,21,22,23,24,25,26]
+}

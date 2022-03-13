@@ -1,0 +1,6 @@
+{
+  "facecavity": "facecavity:types/insects/insect.json",
+  "entities": [
+    "twm:firefly"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "facecavity": "facecavity:types/humanoid/human.json",
+  "entities": [
+    "azurejarjar:jarjar",
+    "azurejarjar:darthbinks"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "itemID": "facecavity:inner_furnace",
+  "organScores": [
+    {"id":"facecavity:metabolism","value": ".25"},
+    {"id":"facecavity:defense","value": ".25"},
+    {"id":"facecavity:furnace_powered","value": "1"}
+  ]
+}

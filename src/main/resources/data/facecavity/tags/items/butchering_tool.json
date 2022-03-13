@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "facecavity:wooden_cleaver",
+    "facecavity:gold_cleaver",
+    "facecavity:stone_cleaver",
+    "facecavity:iron_cleaver",
+    "facecavity:diamond_cleaver",
+    "facecavity:netherite_cleaver",
+    {
+      "id": "facecavity:batet_cleaver",
+      "required": false
+    },
+    {
+      "id": "facecavity:luss_cleaver",
+      "required": false
+    },
+    {
+      "id": "facecavity:vuld_cleaver",
+      "required": false
+    }
+  ]
+}

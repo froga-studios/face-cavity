@@ -1,0 +1,7 @@
+{
+  "itemID": "facecavity:dragon_kidney",
+  "organScores": [
+    {"id":"facecavity:filtration","value": "1.5"},
+    {"id":"facecavity:buff_purging","value": "1"}
+  ]
+}

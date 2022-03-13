@@ -1,0 +1,7 @@
+{
+  "itemID": "facecavity:shulker_spleen",
+  "organScores": [
+    {"id":"facecavity:metabolism","value": ".75"},
+    {"id":"facecavity:shulker_bullets","value": "1"}
+  ]
+}

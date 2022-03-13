@@ -1,0 +1,6 @@
+{
+  "facecavity": "facecavity:types/insects/bee.json",
+  "entities": [
+    "minecraft:bee"
+  ]
+}

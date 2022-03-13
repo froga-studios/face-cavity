@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "tag": "facecavity:burnable_meat"
+    },
+    "result": "facecavity:burnt_meat_chunk",
+    "experience": 0.35,
+    "cookingtime": 100
+  }

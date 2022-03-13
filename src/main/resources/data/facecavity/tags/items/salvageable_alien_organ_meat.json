@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+      "facecavity:ender_appendix",
+      "facecavity:ender_heart",
+      "facecavity:ender_kidney",
+      "facecavity:ender_liver",
+      "facecavity:ender_lung",
+      "facecavity:ender_stomach",
+      "facecavity:ender_spleen"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      {
+        "item": "facecavity:raw_butchered_meat"
+      },
+      {
+        "item": "facecavity:raw_butchered_meat"
+      },
+      {
+        "item": "facecavity:raw_butchered_meat"
+      },
+      {
+        "item": "facecavity:raw_butchered_meat"
+      },
+      {
+        "item": "facecavity:mini_sausage_skin"
+      }
+  ],
+  "result": {
+    "item": "facecavity:raw_mini_sausage",
+    "count": 1
+  }
+}

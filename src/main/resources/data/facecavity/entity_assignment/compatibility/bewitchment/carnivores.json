@@ -1,0 +1,6 @@
+{
+  "facecavity": "facecavity:types/animals/carnivore.json",
+  "entities": [
+    "bewitchment:hellhound"
+  ]
+}

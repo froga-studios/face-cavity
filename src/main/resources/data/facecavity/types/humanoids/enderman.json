@@ -1,0 +1,31 @@
+{
+  "defaultFaceCavity": [
+    {"item": "facecavity:ender_muscle","position": 0},
+    {"item": "facecavity:ender_rib","position": 1},
+    {"item": "facecavity:ender_appendix","position": 2},
+    {"item": "facecavity:ender_lung","position": 3},
+    {"item": "facecavity:ender_heart","position": 4},
+    {"item": "facecavity:ender_lung","position": 5},
+
+    {"item": "facecavity:ender_rib","position": 7},
+    {"item": "facecavity:ender_muscle","position": 8},
+    {"item": "facecavity:ender_muscle","position": 9},
+    {"item": "facecavity:ender_rib","position": 10},
+    {"item": "facecavity:ender_spleen","position": 11},
+    {"item": "facecavity:ender_kidney","position": 12},
+    {"item": "facecavity:ender_spine","position": 13},
+    {"item": "facecavity:ender_kidney","position": 14},
+    {"item": "facecavity:ender_liver","position": 15},
+    {"item": "facecavity:ender_rib","position": 16},
+    {"item": "facecavity:ender_muscle","position": 17},
+    {"item": "facecavity:ender_muscle","position": 18},
+    {"item": "facecavity:ender_muscle","position": 19},
+    {"item": "facecavity:ender_intestine","position": 20},
+    {"item": "facecavity:ender_intestine","position": 21},
+    {"item": "facecavity:ender_stomach","position": 22},
+    {"item": "facecavity:ender_intestine","position": 23},
+    {"item": "facecavity:ender_intestine","position": 24},
+    {"item": "facecavity:ender_muscle","position": 25},
+    {"item": "facecavity:ender_muscle","position": 26}
+  ]
+}

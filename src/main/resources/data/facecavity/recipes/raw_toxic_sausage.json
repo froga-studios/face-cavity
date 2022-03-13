@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      {
+        "item": "facecavity:raw_toxic_meat"
+      },
+      {
+        "item": "facecavity:raw_toxic_meat"
+      },
+      {
+        "item": "facecavity:raw_toxic_meat"
+      },
+      {
+        "item": "facecavity:raw_toxic_meat"
+      },
+      {
+        "item": "facecavity:raw_toxic_meat"
+      },
+      {
+        "item": "facecavity:raw_toxic_meat"
+      },
+      {
+        "item": "facecavity:raw_toxic_meat"
+      },
+      {
+        "item": "facecavity:raw_toxic_meat"
+      },
+      {
+        "item": "facecavity:sausage_skin"
+      }
+  ],
+  "result": {
+    "item": "facecavity:raw_toxic_sausage",
+    "count": 1
+  }
+}

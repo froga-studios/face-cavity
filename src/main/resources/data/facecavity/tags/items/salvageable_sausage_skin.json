@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "facecavity:animal_intestine",
+    "facecavity:herbivore_intestine",
+    "facecavity:carnivore_intestine",
+    "facecavity:insect_intestine",
+    "facecavity:intestine",
+    "facecavity:ender_intestine"
+  ]
+}

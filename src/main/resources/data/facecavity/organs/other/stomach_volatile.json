@@ -1,0 +1,8 @@
+{
+  "itemID": "facecavity:volatile_stomach",
+  "organScores": [
+    {"id":"facecavity:digestion","value": ".5"},
+    {"id":"facecavity:ghastly","value": "1"},
+    {"id":"facecavity:fire_resistant","value": "1"}
+  ]
+}

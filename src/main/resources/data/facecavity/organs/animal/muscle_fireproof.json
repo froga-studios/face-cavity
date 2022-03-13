@@ -1,0 +1,8 @@
+{
+  "itemID": "facecavity:fireproof_muscle",
+  "organScores": [
+    {"id":"facecavity:strength","value": ".75"},
+    {"id":"facecavity:speed","value": ".75"},
+    {"id":"facecavity:fire_resistant","value": "1"}
+  ]
+}

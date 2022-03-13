@@ -1,0 +1,6 @@
+{
+  "facecavity": "facecavity:types/animals/brutish.json",
+  "entities": [
+    "twm:warden"
+  ]
+}

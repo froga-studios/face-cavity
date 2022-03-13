@@ -1,0 +1,8 @@
+{
+  "itemID": "facecavity:golem_core",
+  "organScores": [
+    {"id":"facecavity:health","value": ".75"},
+    {"id":"facecavity:knockback_resistant","value": "1"},
+    {"id":"facecavity:nerves","value": ".5"}
+  ]
+}

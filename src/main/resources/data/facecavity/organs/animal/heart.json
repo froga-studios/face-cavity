@@ -1,0 +1,6 @@
+{
+  "itemID": "facecavity:animal_heart",
+  "organScores": [
+    {"id":"facecavity:health","value": ".75"}
+  ]
+}

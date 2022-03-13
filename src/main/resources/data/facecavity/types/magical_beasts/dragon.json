@@ -1,0 +1,32 @@
+{
+  "defaultFaceCavity": [
+    {"item": "facecavity:dragon_muscle","position": 0},
+    {"item": "facecavity:dragon_rib","position": 1},
+    {"item": "facecavity:dragon_appendix","position": 2},
+    {"item": "facecavity:dragon_lung","position": 3},
+    {"item": "facecavity:dragon_heart","position": 4},
+    {"item": "facecavity:dragon_lung","position": 5},
+
+    {"item": "facecavity:dragon_rib","position": 7},
+    {"item": "facecavity:dragon_muscle","position": 8},
+    {"item": "facecavity:dragon_muscle","position": 9},
+    {"item": "facecavity:dragon_rib","position": 10},
+    {"item": "facecavity:dragon_spleen","position": 11},
+    {"item": "facecavity:dragon_kidney","position": 12},
+    {"item": "facecavity:dragon_spine","position": 13},
+    {"item": "facecavity:dragon_kidney","position": 14},
+    {"item": "facecavity:dragon_liver","position": 15},
+    {"item": "facecavity:dragon_rib","position": 16},
+    {"item": "facecavity:dragon_muscle","position": 17},
+    {"item": "facecavity:dragon_muscle","position": 18},
+    {"item": "facecavity:dragon_muscle","position": 19},
+    {"item": "facecavity:mana_reactor","position": 20},
+    {"item": "facecavity:mana_reactor","position": 21},
+    {"item": "facecavity:mana_reactor","position": 22},
+    {"item": "facecavity:mana_reactor","position": 23},
+    {"item": "facecavity:mana_reactor","position": 24},
+    {"item": "facecavity:dragon_muscle","position": 25},
+    {"item": "facecavity:dragon_muscle","position": 26}
+  ],
+  "bossFaceCavity": true
+}

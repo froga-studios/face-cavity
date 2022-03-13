@@ -1,0 +1,27 @@
+{
+    "replace": false,
+    "values": [
+      "facecavity:animal_appendix",
+      "facecavity:animal_heart",
+      "facecavity:animal_kidney",
+      "facecavity:animal_liver",
+      "facecavity:animal_lung",
+      "facecavity:animal_stomach",
+      "facecavity:animal_spleen",
+      "facecavity:carnivore_stomach",
+      "facecavity:fireproof_appendix",
+      "facecavity:fireproof_heart",
+      "facecavity:fireproof_kidney",
+      "facecavity:fireproof_liver",
+      "facecavity:fireproof_lung",
+      "facecavity:fireproof_stomach",
+      "facecavity:fireproof_spleen",
+      "facecavity:gas_bladder",
+      "facecavity:gills",
+      "facecavity:herbivore_stomach",
+      "facecavity:herbivore_rumen",
+      "facecavity:llama_lung",
+      "facecavity:shulker_spleen",
+      "facecavity:volatile_stomach"
+    ]
+}

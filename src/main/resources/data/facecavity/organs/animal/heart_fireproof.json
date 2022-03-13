@@ -1,0 +1,7 @@
+{
+  "itemID": "facecavity:fireproof_heart",
+  "organScores": [
+    {"id":"facecavity:health","value": ".75"},
+    {"id":"facecavity:fire_resistant","value": "1"}
+  ]
+}

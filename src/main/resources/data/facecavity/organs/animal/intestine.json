@@ -1,0 +1,6 @@
+{
+  "itemID": "facecavity:animal_intestine",
+  "organScores": [
+    {"id":"facecavity:nutrition","value": ".75"}
+  ]
+}

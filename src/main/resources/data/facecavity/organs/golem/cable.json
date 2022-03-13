@@ -1,0 +1,9 @@
+{
+  "itemID": "facecavity:golem_cable",
+  "organScores": [
+    {"id":"facecavity:nerves","value": ".5"},
+    {"id":"facecavity:defense","value": "1"},
+    {"id":"facecavity:knockback_resistant","value": "1"},
+    {"id":"facecavity:speed","value": "-.5"}
+  ]
+}

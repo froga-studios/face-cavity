@@ -1,0 +1,48 @@
+{
+  "defaultFaceCavity": [
+    
+    {"item": "facecavity:rotten_rib","position": 1},
+    {"item": "facecavity:rotten_appendix","position": 2},
+    {"item": "facecavity:rotten_lung","position": 3},
+    {"item": "facecavity:rotten_heart","position": 4},
+    {"item": "facecavity:rotten_lung","position": 5},
+
+
+    {"item": "facecavity:rotten_muscle","position": 8},
+    {"item": "facecavity:rotten_muscle","position": 9},
+    {"item": "facecavity:rotten_rib","position": 10},
+    {"item": "facecavity:rotten_spleen","position": 11},
+    {"item": "facecavity:rotten_kidney","position": 12},
+    {"item": "facecavity:rotten_spine","position": 13},
+    {"item": "facecavity:rotten_kidney","position": 14},
+    {"item": "facecavity:rotten_liver","position": 15},
+
+
+    {"item": "facecavity:rotten_muscle","position": 18},
+
+
+    {"item": "facecavity:rotten_intestine","position": 21},
+    {"item": "facecavity:rotten_stomach","position": 22},
+    {"item": "facecavity:rotten_intestine","position": 23},
+    {"item": "facecavity:rotten_intestine","position": 24},
+    {"item": "facecavity:rotten_muscle","position": 25}
+
+  ],
+  "baseOrganScores": [
+    {"id": "facecavity:luck","value": ".5"},
+    {"id": "facecavity:defense","value": "2.375"},
+    {"id": "facecavity:health","value": ".5"},
+    {"id": "facecavity:nutrition","value": "2"},
+    {"id": "facecavity:filtration","value": "1"},
+    {"id": "facecavity:detoxification","value": ".5"},
+    {"id": "facecavity:strength","value": "4"},
+    {"id": "facecavity:speed","value": "4"},
+    {"id": "facecavity:nerves","value": ".5"},
+    {"id": "facecavity:metabolism","value": ".5"},
+    {"id": "facecavity:digestion","value": ".5"},
+    {"id": "facecavity:breath","value": "1"},
+    {"id": "facecavity:endurance","value": "1"}
+  ],
+  "dropRateMultiplier": ".3",
+  "forbiddenSlots": [0,7,16,17,19,20,26]
+}

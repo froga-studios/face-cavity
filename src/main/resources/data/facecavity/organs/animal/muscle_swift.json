@@ -1,0 +1,7 @@
+{
+  "itemID": "facecavity:swift_muscle",
+  "organScores": [
+    {"id":"facecavity:strength","value": ".75"},
+    {"id":"facecavity:speed","value": "1.25"}
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "itemID": "minecraft:mutton",
+  "pseudoOrgan": true,
+  "organScores": [
+    {"id":"facecavity:strength","value": ".75"},
+    {"id":"facecavity:speed","value": ".75"}
+  ]
+}

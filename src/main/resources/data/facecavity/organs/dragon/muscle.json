@@ -1,0 +1,9 @@
+{
+  "itemID": "facecavity:dragon_muscle",
+  "organScores": [
+    {"id":"facecavity:strength","value": ".5"},
+    {"id":"facecavity:speed","value": "1.5"},
+    {"id":"facecavity:launching","value": "1"},
+    {"id":"facecavity:endurance","value": "-.25"}
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "facecavity": "facecavity:types/humanoids/enderman.json",
+  "entities": [
+    "minecraft:enderman"
+  ]
+}

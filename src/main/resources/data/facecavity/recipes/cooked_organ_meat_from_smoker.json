@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+        "item": "facecavity:raw_organ_meat"
+      },
+      "result": "facecavity:cooked_organ_meat",
+    "experience": 0.35,
+    "cookingtime": 100
+}

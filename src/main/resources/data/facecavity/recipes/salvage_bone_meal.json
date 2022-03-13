@@ -1,0 +1,8 @@
+{
+  "type": "facecavity:crafting_salvage",
+  "ingredient": {
+    "tag": "facecavity:salvageable_bone_meal"
+  },
+  "result": "minecraft:bone_meal",
+  "count": 1
+}

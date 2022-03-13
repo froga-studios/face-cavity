@@ -1,0 +1,7 @@
+{
+  "itemID": "facecavity:dragon_liver",
+  "organScores": [
+    {"id":"facecavity:detoxification","value": "1.5"},
+    {"id":"facecavity:buff_purging","value": "1"}
+  ]
+}

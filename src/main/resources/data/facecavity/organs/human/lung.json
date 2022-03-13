@@ -1,0 +1,8 @@
+{
+  "itemID": "facecavity:lung",
+  "organScores": [
+    {"id":"facecavity:breath_recovery","value": "1"},
+    {"id":"facecavity:breath_capacity","value": "1"},
+    {"id":"facecavity:endurance","value": "1"}
+  ]
+}

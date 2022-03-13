@@ -1,0 +1,8 @@
+{
+  "itemID": "facecavity:ender_muscle",
+  "organScores": [
+    {"id":"facecavity:strength","value": "1.25"},
+    {"id":"facecavity:speed","value": "1.25"},
+    {"id":"facecavity:hydroallergenic","value": "1"}
+  ]
+}

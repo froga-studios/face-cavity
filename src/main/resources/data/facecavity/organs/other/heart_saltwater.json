@@ -1,0 +1,9 @@
+{
+  "itemID": "facecavity:saltwater_heart",
+  "organScores": [
+    {"id":"facecavity:health","value": "1"},
+    {"id":"facecavity:water_breath","value": ".5"},
+    {"id":"facecavity:fire_resistant","value": "-1"}
+
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "defaultFaceCavity": [
+    {"item": "facecavity:insect_muscle","position": 0},
+    {"item": "facecavity:insect_heart","position": 1},
+    {"item": "facecavity:insect_heart","position": 2},
+    {"item": "facecavity:insect_caeca","position": 3},
+    {"item": "facecavity:insect_caeca","position": 4},
+    {"item": "facecavity:insect_caeca","position": 5},
+    {"item": "facecavity:insect_caeca","position": 6},
+    {"item": "facecavity:insect_caeca","position": 7},
+    {"item": "facecavity:insect_muscle","position": 8},
+
+    {"item": "facecavity:insect_muscle","position": 9},
+    {"item": "facecavity:insect_heart","position": 10},
+    {"item": "facecavity:insect_stomach","position": 11},
+    {"item": "facecavity:insect_intestine","position": 12},
+    {"item": "facecavity:insect_intestine","position": 13},
+    {"item": "facecavity:insect_intestine","position": 14},
+    {"item": "facecavity:insect_intestine","position": 15},
+    {"item": "facecavity:insect_intestine","position": 16},
+    {"item": "facecavity:insect_muscle","position": 17},
+
+    {"item": "facecavity:insect_muscle","position": 18},
+    {"item": "facecavity:insect_muscle","position": 19},
+    {"item": "facecavity:insect_lung","position": 20},
+    {"item": "facecavity:insect_lung","position": 21},
+    {"item": "facecavity:insect_lung","position": 22},
+    {"item": "facecavity:insect_muscle","position": 23},
+    {"item": "facecavity:insect_muscle","position": 24}
+  ]
+}

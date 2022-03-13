@@ -1,0 +1,8 @@
+{
+  "itemID": "facecavity:insect_stomach",
+  "organScores": [
+    {"id":"facecavity:digestion","value": ".5"},
+    {"id":"facecavity:nutrition","value": ".25"},
+    {"id":"facecavity:metabolism","value": ".25"}
+  ]
+}

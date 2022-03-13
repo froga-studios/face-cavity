@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+      "facecavity:dragon_appendix",
+      "facecavity:dragon_heart",
+      "facecavity:dragon_kidney",
+      "facecavity:dragon_liver",
+      "facecavity:dragon_lung",
+      "facecavity:dragon_spleen",
+      "facecavity:mana_reactor"
+    ]
+}

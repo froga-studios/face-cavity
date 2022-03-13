@@ -1,0 +1,7 @@
+{
+  "itemID": "facecavity:small_herbivore_intestine",
+  "organScores": [
+    {"id":"facecavity:herbivorous_nutrition","value": ".75"},
+    {"id":"facecavity:carnivorous_nutrition","value": ".25"}
+  ]
+}

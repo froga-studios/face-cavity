@@ -1,0 +1,16 @@
+{
+    "replace": false,
+    "values": [
+      "facecavity:small_animal_appendix",
+      "facecavity:small_animal_heart",
+      "facecavity:small_animal_kidney",
+      "facecavity:small_animal_liver",
+      "facecavity:small_animal_lung",
+      "facecavity:small_animal_stomach",
+      "facecavity:small_animal_spleen",
+      "facecavity:rabbit_heart",
+      "facecavity:small_gills",
+      "facecavity:small_carnivore_stomach",
+      "facecavity:small_herbivore_stomach"
+    ]
+}

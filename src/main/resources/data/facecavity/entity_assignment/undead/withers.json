@@ -1,0 +1,6 @@
+{
+  "facecavity": "facecavity:types/undead/wither.json",
+  "entities": [
+    "minecraft:wither"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "facecavity": "facecavity:types/animals/pufferfish.json",
+  "entities": [
+    "minecraft:pufferfish"
+  ]
+}

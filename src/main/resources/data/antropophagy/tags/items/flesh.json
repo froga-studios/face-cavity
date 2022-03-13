@@ -1,0 +1,14 @@
+{
+    "replace": false,
+    "values": [
+      "facecavity:muscle",
+      "facecavity:raw_man_meat",
+      "facecavity:cooked_man_meat",
+      "facecavity:raw_human_organ_meat",
+      "facecavity:cooked_human_organ_meat",
+      "facecavity:raw_human_sausage",
+      "facecavity:human_sausage",
+      "facecavity:raw_rich_human_sausage",
+      "facecavity:rich_human_sausage"
+    ]
+}

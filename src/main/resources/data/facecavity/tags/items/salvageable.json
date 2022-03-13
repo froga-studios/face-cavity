@@ -1,0 +1,26 @@
+{
+    "replace": false,
+    "values": [
+      "#facecavity:salvageable_alien_meat",
+      "#facecavity:salvageable_alien_organ_meat",
+      "#facecavity:salvageable_animal_organ_meat",
+      "#facecavity:salvageable_blaze_powder",
+      "#facecavity:salvageable_bone_meal",
+      "#facecavity:salvageable_butchered_meat",
+      "#facecavity:salvageable_dragon_meat",
+      "#facecavity:salvageable_dragon_organ_meat",
+      "#facecavity:salvageable_gunpowder",
+      "#facecavity:salvageable_human_organ_meat",
+      "#facecavity:salvageable_iron_scrap",
+      "#facecavity:salvageable_man_meat",
+      "#facecavity:salvageable_mini_sausage_skin",
+      "#facecavity:salvageable_rotten_flesh",
+      "#facecavity:salvageable_sausage_skin",
+      "#facecavity:salvageable_small_animal_organ_meat",
+      "#facecavity:salvageable_small_butchered_meat",
+      "#facecavity:salvageable_toxic_meat",
+      "#facecavity:salvageable_toxic_organ_meat",
+      "facecavity:piston_muscle",
+      "facecavity:writhing_soulsand"
+    ]
+}

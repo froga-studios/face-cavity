@@ -1,0 +1,9 @@
+{
+  "facecavity": "facecavity:types/animals/omnivore.json",
+  "entities": [
+	"betteranimalsplus:boar",
+	"betteranimalsplus:coyote",
+	"betteranimalsplus:turkey",
+	"betteranimalsplus:walrus"
+  ]
+}

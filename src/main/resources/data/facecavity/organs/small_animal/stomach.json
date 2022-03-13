@@ -1,0 +1,6 @@
+{
+  "itemID": "facecavity:small_animal_stomach",
+  "organScores": [
+    {"id":"facecavity:digestion","value": ".5"}
+  ]
+}

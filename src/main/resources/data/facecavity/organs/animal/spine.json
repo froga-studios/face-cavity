@@ -1,0 +1,7 @@
+{
+  "itemID": "facecavity:animal_spine",
+  "organScores": [
+    {"id":"facecavity:defense","value": ".5625"},
+    {"id":"facecavity:nerves","value": ".75"}
+  ]
+}

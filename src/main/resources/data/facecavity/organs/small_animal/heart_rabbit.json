@@ -1,0 +1,7 @@
+{
+  "itemID": "facecavity:rabbit_heart",
+  "organScores": [
+    {"id":"facecavity:health","value": ".5"},
+    {"id":"facecavity:speed","value": "1"}
+  ]
+}

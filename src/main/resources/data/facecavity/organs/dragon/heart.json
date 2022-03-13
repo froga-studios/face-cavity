@@ -1,0 +1,7 @@
+{
+  "itemID": "facecavity:dragon_heart",
+  "organScores": [
+    {"id":"facecavity:health","value": "1.5"},
+    {"id":"facecavity:endurance","value": "-.5"}
+  ]
+}

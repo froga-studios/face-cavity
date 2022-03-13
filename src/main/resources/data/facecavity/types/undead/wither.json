@@ -1,0 +1,51 @@
+{
+  "defaultFaceCavity": [
+    {"item": "facecavity:writhing_soulsand","position": 0},
+    {"item": "facecavity:withered_rib","position": 1},
+    {"item": "facecavity:writhing_soulsand","position": 2},
+    {"item": "facecavity:writhing_soulsand","position": 3},
+    {"item": "minecraft:nether_star","position": 4, "count": 1},
+    {"item": "facecavity:writhing_soulsand","position": 5},
+    {"item": "facecavity:writhing_soulsand","position": 6},
+    {"item": "facecavity:withered_rib","position": 7},
+    {"item": "facecavity:writhing_soulsand","position": 8},
+    {"item": "facecavity:writhing_soulsand","position": 9},
+    {"item": "facecavity:withered_rib","position": 10},
+    {"item": "facecavity:writhing_soulsand","position": 11},
+    {"item": "facecavity:writhing_soulsand","position": 12},
+    {"item": "facecavity:withered_spine","position": 13},
+    {"item": "facecavity:writhing_soulsand","position": 14},
+    {"item": "facecavity:writhing_soulsand","position": 15},
+    {"item": "facecavity:withered_rib","position": 16},
+    {"item": "facecavity:writhing_soulsand","position": 17},
+    {"item": "facecavity:writhing_soulsand","position": 18},
+    {"item": "facecavity:writhing_soulsand","position": 19},
+    {"item": "facecavity:writhing_soulsand","position": 20},
+    {"item": "facecavity:writhing_soulsand","position": 21},
+    {"item": "facecavity:writhing_soulsand","position": 22},
+    {"item": "facecavity:writhing_soulsand","position": 23},
+    {"item": "facecavity:writhing_soulsand","position": 24},
+    {"item": "facecavity:writhing_soulsand","position": 25},
+    {"item": "facecavity:writhing_soulsand","position": 26}
+  ],
+  "baseOrganScores": [
+    {"id": "facecavity:luck","value": "1"},
+    {"id": "facecavity:defense","value": "2.375"},
+    {"id": "facecavity:nutrition","value": "4"},
+    {"id": "facecavity:filtration","value": "2"},
+    {"id": "facecavity:detoxification","value": "1"},
+    {"id": "facecavity:nerves","value": ".5"},
+    {"id": "facecavity:metabolism","value": "1"},
+    {"id": "facecavity:digestion","value": "1"},
+    {"id": "facecavity:breath","value": "2"},
+    {"id": "facecavity:endurance","value": "2"}
+  ],
+  "exceptionalOrgans": [
+    { "ingredient": {"item": "minecraft:nether_star"},
+      "value": [
+        {"id":"facecavity:health","value": "64"}
+      ]
+    }
+  ],
+  "bossFaceCavity": true
+}

@@ -1,0 +1,6 @@
+{
+  "facecavity": "facecavity:types/constructs/iron_golem.json",
+  "entities": [
+    "earthtojavamobs:furnace_golem"
+  ]
+}

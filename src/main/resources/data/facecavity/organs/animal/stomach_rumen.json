@@ -1,0 +1,8 @@
+{
+  "itemID": "facecavity:herbivore_rumen",
+  "organScores": [
+    {"id":"facecavity:herbivorous_digestion","value": "1"},
+    {"id":"facecavity:carnivorous_digestion","value": "-.5"},
+    {"id":"facecavity:grazing","value": "1"}
+  ]
+}

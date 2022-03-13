@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "facecavity:small_animal_intestine",
+    "facecavity:small_herbivore_intestine",
+    "facecavity:small_carnivore_intestine"
+  ]
+}

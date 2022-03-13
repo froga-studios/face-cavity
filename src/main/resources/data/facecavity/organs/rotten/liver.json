@@ -1,0 +1,6 @@
+{
+  "itemID": "facecavity:rotten_liver",
+  "organScores": [
+    {"id":"facecavity:detoxification","value": ".5"}
+  ]
+}

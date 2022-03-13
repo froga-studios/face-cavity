@@ -1,0 +1,7 @@
+{
+  "itemID": "facecavity:dragon_spleen",
+  "organScores": [
+    {"id":"facecavity:metabolism","value": "1.5"},
+    {"id":"facecavity:endurance","value": "-.5"}
+  ]
+}

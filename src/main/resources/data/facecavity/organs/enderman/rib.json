@@ -1,0 +1,7 @@
+{
+  "itemID": "facecavity:ender_rib",
+  "organScores": [
+    {"id":"facecavity:defense","value": "1.25"},
+    {"id":"facecavity:hydroallergenic","value": "1"}
+  ]
+}

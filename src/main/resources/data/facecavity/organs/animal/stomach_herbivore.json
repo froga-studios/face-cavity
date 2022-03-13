@@ -1,0 +1,7 @@
+{
+  "itemID": "facecavity:herbivore_stomach",
+  "organScores": [
+    {"id":"facecavity:herbivorous_digestion","value": "1.25"},
+    {"id":"facecavity:carnivorous_digestion","value": ".25"}
+  ]
+}

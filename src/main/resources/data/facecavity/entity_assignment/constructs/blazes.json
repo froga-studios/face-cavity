@@ -1,0 +1,6 @@
+{
+  "facecavity": "facecavity:types/constructs/blaze.json",
+  "entities": [
+    "minecraft:blaze"
+  ]
+}

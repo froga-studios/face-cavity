@@ -1,0 +1,8 @@
+{
+  "itemID": "facecavity:rotten_lung",
+  "organScores": [
+    {"id":"facecavity:breath_recovery","value": ".5"},
+    {"id":"facecavity:breath_capacity","value": ".5"},
+    {"id":"facecavity:endurance","value": ".5"}
+  ]
+}

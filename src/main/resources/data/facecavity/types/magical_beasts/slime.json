@@ -1,0 +1,18 @@
+{
+  "defaultFaceCavity": [
+    {"item": "minecraft:slime_ball","position": 4,"count": 1}
+  ],
+  "baseOrganScores": [
+    {"id": "facecavity:health","value": ".5"}
+  ],
+  "exceptionalOrgans": [
+    {"ingredient": {"item": "minecraft:slime_ball"},
+      "value": [
+        {"id":"facecavity:health","value": "32"},
+        {"id":"facecavity:strength","value": "64"},
+        {"id":"facecavity:speed","value": "64"},
+        {"id":"facecavity:defense","value": "64"}
+      ]
+    }
+  ]
+}

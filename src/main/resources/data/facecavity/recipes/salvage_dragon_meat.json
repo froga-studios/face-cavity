@@ -1,0 +1,9 @@
+{
+  "type": "facecavity:crafting_salvage",
+  "ingredient": {
+    "tag": "facecavity:salvageable_dragon_meat"
+  },
+  "required": 4,
+  "result": "facecavity:raw_dragon_meat",
+  "count": 1
+}

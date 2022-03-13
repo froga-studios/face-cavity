@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "item": "facecavity:raw_alien_sausage"
+    },
+    "result": "facecavity:alien_sausage",
+    "experience": 0.35,
+    "cookingtime": 100
+  }

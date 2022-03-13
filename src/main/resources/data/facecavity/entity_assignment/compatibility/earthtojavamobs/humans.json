@@ -1,0 +1,6 @@
+{
+  "facecavity": "facecavity:types/humanoids/human.json",
+  "entities": [
+    "earthtojavamobs:viler_witch"
+  ]
+}

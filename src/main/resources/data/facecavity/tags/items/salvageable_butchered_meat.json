@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+      "facecavity:aquatic_muscle",
+      "facecavity:animal_muscle",
+      "facecavity:fireproof_muscle",
+      "facecavity:fish_muscle",
+      "facecavity:brutish_muscle",
+      "facecavity:swift_muscle",
+      "facecavity:springy_muscle"
+    ]
+}

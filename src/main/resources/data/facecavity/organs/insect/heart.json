@@ -1,0 +1,7 @@
+{
+  "itemID": "facecavity:insect_heart",
+  "organScores": [
+    {"id":"facecavity:health","value": ".5"},
+    {"id":"facecavity:filtration","value": ".5"}
+  ]
+}

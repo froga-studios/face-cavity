@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+      "item": "facecavity:raw_dragon_meat"
+    },
+    "result": "facecavity:cooked_dragon_meat",
+    "experience": 1.0,
+    "cookingtime": 400
+  }

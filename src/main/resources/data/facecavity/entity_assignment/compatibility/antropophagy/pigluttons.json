@@ -1,0 +1,6 @@
+{
+  "facecavity": "facecavity:types/humanoid/human.json",
+  "entities": [
+    "anthropophagy:piglutton"
+  ]
+}

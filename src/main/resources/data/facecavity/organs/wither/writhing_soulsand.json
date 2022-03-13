@@ -1,0 +1,7 @@
+{
+  "itemID": "facecavity:writhing_soulsand",
+  "organScores": [
+    {"id":"facecavity:strength","value": "1.5"},
+    {"id":"facecavity:speed","value": ".5"}
+  ]
+}

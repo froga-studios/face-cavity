@@ -1,0 +1,9 @@
+{
+  "itemID": "facecavity:dragon_lung",
+  "organScores": [
+    {"id":"facecavity:breath_recovery","value": "1.25"},
+    {"id":"facecavity:breath_capacity","value": ".25"},
+    {"id":"facecavity:endurance","value": ".75"},
+    {"id":"facecavity:dragon_breath","value": "1"}
+  ]
+}

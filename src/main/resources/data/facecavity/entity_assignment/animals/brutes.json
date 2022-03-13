@@ -1,0 +1,8 @@
+{
+  "facecavity": "facecavity:types/animals/brutish.json",
+  "entities": [
+    "minecraft:hoglin",
+    "minecraft:ravager",
+    "minecraft:piglin_brute"
+  ]
+}

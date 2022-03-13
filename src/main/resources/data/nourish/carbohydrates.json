@@ -1,0 +1,22 @@
+{
+	"values": [
+		"facecavity:raw_organ_meat",
+		"facecavity:cooked_organ_meat",
+		"facecavity:raw_rich_sausage",
+		"facecavity:rich_sausage",
+		"facecavity:raw_rich_mini_sausage",
+		"facecavity:rich_mini_sausage",
+		"facecavity:raw_toxic_organ_meat",
+		"facecavity:cooked_toxic_organ_meat",
+		"facecavity:raw_rich_toxic_sausage",
+		"facecavity:rich_toxic_sausage",
+		"facecavity:raw_human_organ_meat",
+		"facecavity:cooked_human_organ_meat",
+		"facecavity:raw_rich_human_sausage",
+		"facecavity:rich_human_sausage",
+		"facecavity:raw_alien_organ_meat",
+		"facecavity:cooked_alien_organ_meat",
+		"facecavity:raw_rich_alien_sausage",
+		"facecavity:rich_alien_sausage"
+	]
+}

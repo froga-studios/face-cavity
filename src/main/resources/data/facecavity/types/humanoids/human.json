@@ -1,0 +1,31 @@
+{
+  "defaultFaceCavity": [
+    {"item": "facecavity:muscle","position": 0},
+    {"item": "facecavity:rib","position": 1},
+    {"item": "facecavity:appendix","position": 2},
+    {"item": "facecavity:lung","position": 3},
+    {"item": "facecavity:heart","position": 4},
+    {"item": "facecavity:lung","position": 5},
+
+    {"item": "facecavity:rib","position": 7},
+    {"item": "facecavity:muscle","position": 8},
+    {"item": "facecavity:muscle","position": 9},
+    {"item": "facecavity:rib","position": 10},
+    {"item": "facecavity:spleen","position": 11},
+    {"item": "facecavity:kidney","position": 12},
+    {"item": "facecavity:spine","position": 13},
+    {"item": "facecavity:kidney","position": 14},
+    {"item": "facecavity:liver","position": 15},
+    {"item": "facecavity:rib","position": 16},
+    {"item": "facecavity:muscle","position": 17},
+    {"item": "facecavity:muscle","position": 18},
+    {"item": "facecavity:muscle","position": 19},
+    {"item": "facecavity:intestine","position": 20},
+    {"item": "facecavity:intestine","position": 21},
+    {"item": "facecavity:stomach","position": 22},
+    {"item": "facecavity:intestine","position": 23},
+    {"item": "facecavity:intestine","position": 24},
+    {"item": "facecavity:muscle","position": 25},
+    {"item": "facecavity:muscle","position": 26}
+  ]
+}

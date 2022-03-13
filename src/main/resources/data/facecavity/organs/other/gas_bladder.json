@@ -1,0 +1,8 @@
+{
+  "itemID": "facecavity:gas_bladder",
+  "organScores": [
+    {"id":"facecavity:breath_capacity","value": "1.5"},
+    {"id":"facecavity:buoyant","value": "1"},
+    {"id":"facecavity:fire_resistant","value": "1"}
+  ]
+}

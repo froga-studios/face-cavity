@@ -1,0 +1,31 @@
+{
+  "defaultFaceCavity": [
+    {"item": "facecavity:aquatic_muscle","position": 0},
+    {"item": "facecavity:animal_rib","position": 1},
+    {"item": "facecavity:animal_appendix","position": 2},
+    {"item": "facecavity:animal_lung","position": 3},
+    {"item": "facecavity:animal_heart","position": 4},
+    {"item": "facecavity:animal_lung","position": 5},
+
+    {"item": "facecavity:animal_rib","position": 7},
+    {"item": "facecavity:aquatic_muscle","position": 8},
+    {"item": "facecavity:aquatic_muscle","position": 9},
+    {"item": "facecavity:animal_rib","position": 10},
+    {"item": "facecavity:animal_spleen","position": 11},
+    {"item": "facecavity:animal_kidney","position": 12},
+    {"item": "facecavity:animal_spine","position": 13},
+    {"item": "facecavity:animal_kidney","position": 14},
+    {"item": "facecavity:animal_liver","position": 15},
+    {"item": "facecavity:animal_rib","position": 16},
+    {"item": "facecavity:aquatic_muscle","position": 17},
+    {"item": "facecavity:aquatic_muscle","position": 18},
+    {"item": "facecavity:aquatic_muscle","position": 19},
+    {"item": "facecavity:animal_intestine","position": 20},
+    {"item": "facecavity:animal_intestine","position": 21},
+    {"item": "facecavity:animal_stomach","position": 22},
+    {"item": "facecavity:animal_intestine","position": 23},
+    {"item": "facecavity:animal_intestine","position": 24},
+    {"item": "facecavity:aquatic_muscle","position": 25},
+    {"item": "facecavity:aquatic_muscle","position": 26}
+  ]
+}

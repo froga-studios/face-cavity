@@ -1,0 +1,8 @@
+{
+  "facecavity": "facecavity:types/animals/ruminant.json",
+  "entities": [
+    "minecraft:cow",
+    "minecraft:sheep",
+    "minecraft:mooshroom"
+  ]
+}

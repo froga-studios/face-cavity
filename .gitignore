@@ -27,3 +27,7 @@ bin/
 # fabric
 
 run/
+
+# fix locki's mc 1.17 requirement
+
+!run/config/fabric_loader_dependencies.json

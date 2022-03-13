@@ -220,7 +220,7 @@ public class GeneratedFaceCavityType implements FaceCavityType {
             cc.connectedCrystal.setBeamTarget(null);
             cc.connectedCrystal = null;
         }
-        if(cc.opened && !(playerFaceCavity && FaceCavity.config.KEEP_CHEST_CAVITY)) {
+        if(cc.opened && !(playerFaceCavity && FaceCavity.config.KEEP_FACE_CAVITY)) {
             FaceCavityUtil.dropUnboundOrgans(cc);
         }
         if(playerFaceCavity){

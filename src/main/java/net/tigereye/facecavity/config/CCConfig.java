@@ -44,7 +44,7 @@ public class CCConfig implements ConfigData {
     @ConfigEntry.Category("core")
     public boolean CAN_OPEN_OTHER_PLAYERS = false;
     @ConfigEntry.Category("core")
-    public boolean KEEP_CHEST_CAVITY = false;
+    public boolean KEEP_FACE_CAVITY = false;
     @ConfigEntry.Category("core")
     public boolean DISABLE_ORGAN_REJECTION = false;
 

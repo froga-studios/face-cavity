@@ -26,17 +26,17 @@ public class FaceCavity implements ModInitializer {
     public static final boolean DEBUG_MODE = false;
 	public static final Logger LOGGER = LogManager.getLogger();
 	public static CCConfig config;
-	public static final ScreenHandlerType<FaceCavityScreenHandler> CHEST_CAVITY_SCREEN_HANDLER;
-	public static final Identifier CHEST_CAVITY_SCREEN_ID = new Identifier(MODID,"chest_cavity_screen");
+	public static final ScreenHandlerType<FaceCavityScreenHandler> FACE_CAVITY_SCREEN_HANDLER;
+	public static final Identifier FACE_CAVITY_SCREEN_ID = new Identifier(MODID,"chest_cavity_screen");
 	public static final Identifier COMPATIBILITY_TAG = new Identifier(MODID,"organ_compatibility");
 	public static final ItemGroup ORGAN_ITEM_GROUP = FabricItemGroupBuilder.build(
 			new Identifier(MODID, "organs"),
 			() -> new ItemStack(CCItems.HUMAN_STOMACH));
 
-	//public static final ScreenHandlerType<ScreenHandler> CHEST_CAVITY_SCREEN_HANDLER;
+	//public static final ScreenHandlerType<ScreenHandler> FACE_CAVITY_SCREEN_HANDLER;
 
 	static{
-		CHEST_CAVITY_SCREEN_HANDLER = ScreenHandlerRegistry.registerSimple(CHEST_CAVITY_SCREEN_ID, FaceCavityScreenHandler::new);
+		FACE_CAVITY_SCREEN_HANDLER = ScreenHandlerRegistry.registerSimple(FACE_CAVITY_SCREEN_ID, FaceCavityScreenHandler::new);
 	}
 	@Override
 	public void onInitialize() {

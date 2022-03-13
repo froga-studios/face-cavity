@@ -35,7 +35,7 @@ public class FaceCavityScreenHandler extends ScreenHandler {
     }
 
     public FaceCavityScreenHandler(int syncId, PlayerInventory playerInventory, FaceCavityInventory inventory) {
-        super(FaceCavity.CHEST_CAVITY_SCREEN_HANDLER, syncId);
+        super(FaceCavity.FACE_CAVITY_SCREEN_HANDLER, syncId);
         this.size = inventory.size();
         this.inventory = inventory;
         this.rows = (size-1)/9 + 1;

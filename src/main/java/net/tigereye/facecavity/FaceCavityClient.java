@@ -20,7 +20,7 @@ import java.util.Optional;
 public class FaceCavityClient implements ClientModInitializer {
     @Override
     public void onInitializeClient() {
-        ScreenRegistry.register(FaceCavity.CHEST_CAVITY_SCREEN_HANDLER, FaceCavityScreen::new);
+        ScreenRegistry.register(FaceCavity.FACE_CAVITY_SCREEN_HANDLER, FaceCavityScreen::new);
 
         CCNetworkingPackets.registerClient();
         CCKeybindings.register();

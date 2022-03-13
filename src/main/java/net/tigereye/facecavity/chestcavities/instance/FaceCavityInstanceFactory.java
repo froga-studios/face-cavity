@@ -16,7 +16,7 @@ import java.util.Map;
 public class FaceCavityInstanceFactory {
 
     private static final Map<Identifier, FaceCavityType> entityIdentifierMap = new HashMap<>();
-    private static final FaceCavityType DEFAULT_CHEST_CAVITY_TYPE = new DefaultFaceCavityType();
+    private static final FaceCavityType DEFAULT_FACE_CAVITY_TYPE = new DefaultFaceCavityType();
 
     public static FaceCavityInstance newFaceCavityInstance(EntityType<? extends LivingEntity> entityType, LivingEntity owner){
         Identifier entityID = Registry.ENTITY_TYPE.getId(entityType);
@@ -29,7 +29,7 @@ public class FaceCavityInstanceFactory {
         if(entityIdentifierMap.containsKey(entityID)){
             return new FaceCavityInstance(entityIdentifierMap.get(Registry.ENTITY_TYPE.getId(entityType)),owner);
         }
-        return new FaceCavityInstance(DEFAULT_CHEST_CAVITY_TYPE,owner);
+        return new FaceCavityInstance(DEFAULT_FACE_CAVITY_TYPE,owner);
     }
 
     public static void register(EntityType<? extends LivingEntity> entityType,FaceCavityType chestCavityType){

@@ -9,6 +9,10 @@ import net.tigereye.facecavity.items.*;
 public class CCItems {
 
 
+	public static final Item HUMAN_BRAIN = new Item(new Item.Settings().maxCount(1).group(FaceCavity.ORGAN_ITEM_GROUP).food(CCFoodComponents.RAW_HUMAN_ORGAN_MEAT_FOOD_COMPONENT));
+
+
+
 	public static final Item.Settings CHEST_OPENER_SETTINGS = new Item.Settings().maxCount(1).group(ItemGroup.TOOLS);
 	public static final Item.Settings FOOD_ITEM_SETTINGS = new Item.Settings().maxCount(64).group(ItemGroup.FOOD);
 
@@ -215,6 +219,10 @@ public class CCItems {
 	public static final Item FURNACE_POWER = new Item(FOOD_ITEM_SETTINGS.food(CCFoodComponents.FURNACE_POWER_FOOD_COMPONENT));
 
 	public static void register() {
+
+		registerItem("brain", HUMAN_BRAIN);
+
+
 		registerItem("chest_opener", CHEST_OPENER);
 		registerItem("wooden_cleaver", WOODEN_CLEAVER);
 		registerItem("stone_cleaver", STONE_CLEAVER);

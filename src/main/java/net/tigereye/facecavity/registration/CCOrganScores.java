@@ -4,6 +4,10 @@ import net.minecraft.util.Identifier;
 import net.tigereye.facecavity.FaceCavity;
 
 public class CCOrganScores {
+
+    public static final Identifier XP_GAIN = new Identifier(FaceCavity.MODID, "xp_gain");
+
+
     //basic organ abilities
     public static final Identifier LUCK = new Identifier(FaceCavity.MODID, "luck");
     public static final Identifier HEALTH = new Identifier(FaceCavity.MODID, "health");

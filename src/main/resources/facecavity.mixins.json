@@ -4,6 +4,8 @@
   "package": "net.tigereye.facecavity.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+    "MixinExperienceOrbEntity",
+
     "MixinEnchantmentHelper",
     "MixinEntity",
     "MixinHungerManager",

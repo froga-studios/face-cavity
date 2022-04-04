@@ -20,7 +20,7 @@ public class MathUtil {
      */
     public static int quantum_round(double f){
         int output =(int) f;
-        if (ThreadLocalRandom.current().nextDouble()<Math.abs(f-output)){
+        if (ThreadLocalRandom.current().nextDouble(0,1)<Math.abs(f-output)){
             output += Math.signum(f);
         }
         return output;

@@ -8,6 +8,7 @@ import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.world.World;
 import net.tigereye.facecavity.interfaces.FaceCavityEntity;
 import net.tigereye.facecavity.registration.CCOrganScores;
+import net.tigereye.facecavity.util.MathUtil;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Shadow;
 import org.spongepowered.asm.mixin.injection.At;
@@ -26,7 +27,9 @@ public abstract class MixinExperienceOrbEntity extends Entity {
     public void onPlayerCollision(PlayerEntity player,CallbackInfo info) {
         if (!this.world.isClient && player.experiencePickUpDelay == 0){
             FaceCavityEntity.of(player).ifPresent(ccPlayerEntityInterface -> {
-                this.amount*=ccPlayerEntityInterface.getFaceCavityInstance().getOrganScore(CCOrganScores.XP_GAIN);
+                float xp_gain_stat = ccPlayerEntityInterface.getFaceCavityInstance().getOrganScore(CCOrganScores.XP_GAIN);
+                double xp_multiplier = Math.pow(xp_gain_stat,0.3);
+                this.amount= MathUtil.quantum_round(xp_multiplier*this.amount);
             });
         }
     }
